@@ -1,2 +1,4 @@
 # MWF-PHP
-Mini helper framework for creating simple website backend.
+Mini helper setup for creating simple website backend.
+
+//inprogress
