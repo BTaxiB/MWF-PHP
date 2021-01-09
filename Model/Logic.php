@@ -18,7 +18,7 @@ class Logic
      */
     protected static $db_conn;
 
-    protected function __construct(): void
+    protected function __construct()
     {
         $this->db_conn = Database::serve();
     }
