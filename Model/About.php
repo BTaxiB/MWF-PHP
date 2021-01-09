@@ -28,9 +28,8 @@ class About extends Model
   }
 
   /**
-   * Update table row.
-   * @return bool 
-   * If query has been executed successfully return TRUE|FALSE;
+   * Add new table row.
+   * @return void
    */
   function store(array $data): void
   {
